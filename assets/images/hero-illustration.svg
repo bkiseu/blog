@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none">
+  <!-- Composed from MIT-licensed Tabler Icons (github.com/tabler/tabler-icons),
+       recolored to match the mana theme's purple accent palette. -->
+
+  <!-- cloud, floating upper-right -->
+  <g transform="translate(176,28) scale(3.2)" stroke="#dbabff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <path d="M6.657 18c-2.572 0 -4.657 -2.007 -4.657 -4.483c0 -2.475 2.085 -4.482 4.657 -4.482c.393 -1.762 1.794 -3.2 3.675 -3.773c1.88 -.572 3.956 -.193 5.444 1c1.488 1.19 2.162 3.007 1.77 4.769h.99c1.913 0 3.464 1.56 3.464 3.486c0 1.927 -1.551 3.487 -3.465 3.487h-11.878" />
+  </g>
+
+  <!-- server rack, main focal element -->
+  <g transform="translate(76,108) scale(7)" stroke="#b063e0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3v-2" />
+    <path d="M3 15a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3l0 -2" />
+    <path d="M7 8l0 .01" />
+    <path d="M7 16l0 .01" />
+    <path d="M11 8h6" />
+    <path d="M11 16h6" />
+  </g>
+
+  <!-- terminal, floating lower-left -->
+  <g transform="translate(26,208) scale(2.8)" stroke="#dbabff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <path d="M8 9l3 3l-3 3" />
+    <path d="M13 15l3 0" />
+    <path d="M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -12" />
+  </g>
+</svg>

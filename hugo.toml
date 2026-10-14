@@ -1,13 +1,18 @@
 baseURL = 'https://blog.bryantkiseu.dev'
 languageCode = 'en-us'
-title = 'Bryant Kiseu'
+title = 'Notes From The Control Plane'
 theme = 'mana'
 
 [params]
-  description = "Blogs about homelab, kubernetes, and software development"
+  description = "Blogs about homelab, kubernetes, DevOps, infrastructure, and software development"
+  heroTitleLine1 = "NOTES FROM"
+  heroTitleLine2 = "THE CONTROL PLANE"
 
   [params.avatar]
     assetPath = "images/avatar.png"
+
+    [params.avatar.home]
+      assetPath = "images/hero-illustration.svg"
 
   [params.social]
     github = "https://github.com/bkiseu"
