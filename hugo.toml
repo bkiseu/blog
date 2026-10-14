@@ -1,6 +1,6 @@
 baseURL = 'https://blog.bryantkiseu.dev'
 languageCode = 'en-us'
-title = 'Notes From The Control Plane'
+title = 'Bryant Kiseu'
 theme = 'mana'
 
 [params]
