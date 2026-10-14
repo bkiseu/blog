@@ -1,0 +1,10 @@
+/* Site-level overrides on top of the mana theme (kept out of the theme
+   submodule so `git submodule update` never clobbers them). */
+
+/* Theme's .hero-logo is `max-width: 100%`, which fills the entire half-width
+   hero column - fine for a wide illustration like the theme's demo artwork,
+   way too large for a simple square monogram. Cap it like the theme already
+   caps it on mobile (see responsive.css), just at a sane desktop size. */
+.hero-logo {
+  max-width: 280px;
+}
