@@ -4,7 +4,7 @@ title = 'Notes From The Control Plane'
 theme = 'mana'
 
 [params]
-  description = "Blogs about homelab, kubernetes, DevOps, infrastructure, and software development"
+  description = "Infrastructure, homelab, Kubernetes, AWS, and coding - notes from the lab and from production"
   heroTitleLine1 = "NOTES FROM"
   heroTitleLine2 = "THE CONTROL PLANE"
 
