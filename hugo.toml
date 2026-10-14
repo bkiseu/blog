@@ -1,0 +1,12 @@
+baseURL = 'https://blog.bryantkiseu.com'
+languageCode = 'en-us'
+title = 'Bryant Kiseu'
+theme = 'mana'
+
+[params]
+  description = "Blogs about homelab, kubernetes, and software development"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
