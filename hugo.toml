@@ -6,6 +6,9 @@ theme = 'mana'
 [params]
   description = "Blogs about homelab, kubernetes, and software development"
 
+  [params.avatar]
+    assetPath = "images/avatar.png"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
